@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chergui Mohammed</h1>
-- 💬 Ask me about **Computer Systems and Networks**
+- 💬 Ask me about Computer Systems and Networks
 
 - 📫 How to reach me **mohammedchergui190@gmail.com**
 
