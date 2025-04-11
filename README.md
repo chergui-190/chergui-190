@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chergui Mohammed</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chergui-190&label=Profile%20views&color=0e75b6&style=flat" alt="chergui-190" /> </p>
-
 - 💬 Ask me about **Computer Systems and Networks**
 
 - 📫 How to reach me **mohammedchergui190@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" with="400" height="500"  src="https://imgs.search.brave.com/JqrLHdWgh580hpgoy47ChQcsUoTFQddPHjs-AwUNPCE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhlV055Y21abk9X/MW9lSHB0WW1GbWF6/VjVhbWxsZFRjeE1H/aG5lWG8wWjJWaU5H/Vm5ZbTkyWlNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vcWdRVWdnQUMz/UGZ2Njg3cVBDLzIw/MC5naWY.gif">
+<img align="right" alt="coding" with="400" height="400"  src="https://imgs.search.brave.com/JqrLHdWgh580hpgoy47ChQcsUoTFQddPHjs-AwUNPCE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhlV055Y21abk9X/MW9lSHB0WW1GbWF6/VjVhbWxsZFRjeE1H/aG5lWG8wWjJWaU5H/Vm5ZbTkyWlNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vcWdRVWdnQUMz/UGZ2Njg3cVBDLzIw/MC5naWY.gif">
 
 
 <p align="left">
